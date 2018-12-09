@@ -1,0 +1,16 @@
+correct1	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are __ letters in the modern alphabet. XXX 26 YYYY 70
+
+correct2	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 YYYY 12
+
+correct3	My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 YYYY 8
+
+correct4	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own ___ feet. XXX 6 YYYY 2
+
+speculation1	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 YYYY 217
+
+speculation2	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 YYYY 6
+
+speculation3	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy ___ more of their albums. XXX 3 YYYY 4
+
+speculation4	Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 YYYY 37
+

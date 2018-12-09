@@ -1,0 +1,37 @@
+inf.burger.think	Joseph is a man from the US. Joseph lives next door to Sue. Sue thinks that Joseph ate ___ burgers last monthXXX 8 YYYY 11
+inf.burger.announce	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate ___ burgers last monthXXX 8 YYYY 11
+
+inf.movie.think	Nick is a man from the US. Nick went to school with Stephanie.  Stephanie thinks that Nick saw __ movies last yearXXX 22 YYYY 36
+inf.movie.announce	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw ___ movies last yearXXX 33 YYYY 36
+
+inf.shoes.think	Melanie is a woman from the US. Melanie has a colleague, Bob.  Bob thinks that Melanie owns ___ pairs of shoesXXX 73 YYYY  152
+inf.shoes.announce	Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns ___ pairs of shoesXXX 73 YYYY 152
+
+inf.class.think	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are ___ children in Erin's classXXX 24 YYYY 27
+inf.class.announce	Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are ___ children in Erin's class.XXX 24  YYYY 27
+
+inf.hair.think	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair ___ times last monthXXX 21 YYYY 27
+inf.hair.announce	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair ___ times last monthXXX 21 YYYY 27
+
+inf.friends.think	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has ___ friendsXXX 10 YYYY 14
+inf.friends.announce	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has ___ friendsXXX 10 YYYY 14
+
+inf.cook.think	Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked ___ meals at home last monthXXX 12 YYYY 17
+inf.cook.announce	Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked __ meals at home last monthXXX 12 YYYY 17
+
+inf.tshirts.think	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has __ T-shirtsXXX 21 YYYY 29
+inf.tshirts.announce	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has __ T-shirtsXXX 21 YYYY 29
+
+inf.facebook.think	Judith is a woman from the US. Judith has a brother, Bill. Bill thinks that Judith has ___ Facebook friendsXXX 207 YYYY 268
+inf.facebook.announce	Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has ___ Facebook friendsXXX 207 YYYY 268
+
+inf.coffee.think	Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank __ cups of coffee last weekXXX 14 YYYY 20
+inf.coffee.announce	Andy is a man from the US. Andy has an aunt, Katherine. Katherine announced to me that Andy drank __ cups of coffee last weekXXX 14 YYYY 20
+
+inf.calls.think	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made __ phone calls last weekXXX 22 YYYY 32
+inf.calls.announce	Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made ___ phone calls last weekXXX 22 YYYY 32
+
+inf.restaurants.think	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to ___ restaurants last yearXXX 46 YYYY 78
+inf.restaurants.announce	Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric announced to me that Sarah went to __ restaurants last yearXXX 46 YYYY 78
+
+

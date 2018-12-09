@@ -1,0 +1,841 @@
+output_id	question_id	listNum	otherLang	itemName	cond	expt	prompt	answer
+1	1	0	no	facebook	announce	inf	"Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has ___ Facebook friendsXXX 207 XXX 268"	high
+1	2	0	no	correct3	FILLER	FILLER	"My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 XXX 8"	low
+1	3	0	no	shoes	announce	inf	"Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns ___ pairs of shoesXXX 73 XXX 152"	high
+1	4	0	no	cook	announce	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked __ meals at home last monthXXX 12 XXX 17"	high
+1	5	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+1	6	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+1	7	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+1	8	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+1	9	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+1	10	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+1	11	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+1	12	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+1	13	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+1	14	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+1	15	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+1	16	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+1	17	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+1	18	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+1	19	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+1	20	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+2	1	1	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own ___ feet. XXX 6 XXX 2	high
+2	2	1	no	movie	announce	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw ___ movies last yearXXX 33 XXX 36	high
+2	3	1	no	friends	announce	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has ___ friendsXXX 10 XXX 14	high
+2	4	1	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	low
+2	5	1	no	restaurants	announce	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric announced to me that Sarah went to __ restaurants last yearXXX 46 XXX 78"	high
+2	6	1	no	facebook	think	inf	"Judith is a woman from the US. Judith has a brother, Bill. Bill thinks that Judith has ___ Facebook friendsXXX 207 XXX 268"	high
+2	7	1	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+2	8	1	no	class	announce	inf	"Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are ___ children in Erin's class.XXX 24  XXX 27"	low
+2	9	1	no	tshirts	announce	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has __ T-shirtsXXX 21 XXX 29	high
+2	10	1	no	cook	think	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked ___ meals at home last monthXXX 12 XXX 17"	low
+2	11	1	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	high
+2	12	1	no	calls	think	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made __ phone calls last weekXXX 22 XXX 32"	low
+2	13	1	no	correct3	FILLER	FILLER	"My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 XXX 8"	low
+2	14	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+2	15	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+2	16	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+2	17	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+2	18	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+2	19	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+2	20	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+3	1	0	no	facebook	announce	inf	"Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has ___ Facebook friendsXXX 207 XXX 268"	low
+3	2	0	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are __ letters in the modern alphabet. XXX 26 XXX 70	low
+3	3	0	no	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair ___ times last monthXXX 21 XXX 27	low
+3	4	0	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy ___ more of their albums. XXX 3 XXX 4	low
+3	5	0	no	coffee	think	inf	"Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank __ cups of coffee last weekXXX 14 XXX 20"	low
+3	6	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+3	7	0	no	class	think	inf	"Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are ___ children in Erin's classXXX 24 XXX 27"	low
+3	8	0	no	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has ___ friendsXXX 10 XXX 14	low
+3	9	0	no	correct3	FILLER	FILLER	"My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 XXX 8"	low
+3	10	0	no	shoes	announce	inf	"Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns ___ pairs of shoesXXX 73 XXX 152"	low
+3	11	0	no	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has __ T-shirtsXXX 21 XXX 29	low
+3	12	0	no	speculation4	FILLER	FILLER	"Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 XXX 37"	low
+3	13	0	no	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate ___ burgers last monthXXX 8 XXX 11	low
+3	14	0	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	low
+3	15	0	no	calls	announce	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made ___ phone calls last weekXXX 22 XXX 32"	low
+3	16	0	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own ___ feet. XXX 6 XXX 2	high
+3	17	0	no	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie.  Stephanie thinks that Nick saw __ movies last yearXXX 22 XXX 36	low
+3	18	0	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	low
+3	19	0	no	restaurants	think	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to ___ restaurants last yearXXX 46 XXX 78"	low
+3	20	0	no	cook	announce	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked __ meals at home last monthXXX 12 XXX 17"	low
+4	1	1	no	facebook	think	inf	"Judith is a woman from the US. Judith has a brother, Bill. Bill thinks that Judith has ___ Facebook friendsXXX 207 XXX 268"	low
+4	2	1	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own ___ feet. XXX 6 XXX 2	high
+4	3	1	no	movie	announce	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw ___ movies last yearXXX 33 XXX 36	high
+4	4	1	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+4	5	1	no	class	announce	inf	"Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are ___ children in Erin's class.XXX 24  XXX 27"	low
+4	6	1	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy ___ more of their albums. XXX 3 XXX 4	low
+4	7	1	no	coffee	announce	inf	"Andy is a man from the US. Andy has an aunt, Katherine. Katherine announced to me that Andy drank __ cups of coffee last weekXXX 14 XXX 20"	high
+4	8	1	no	correct3	FILLER	FILLER	"My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 XXX 8"	low
+4	9	1	no	shoes	think	inf	"Melanie is a woman from the US. Melanie has a colleague, Bob.  Bob thinks that Melanie owns ___ pairs of shoesXXX 73 XXX  152"	low
+4	10	1	no	friends	announce	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has ___ friendsXXX 10 XXX 14	high
+4	11	1	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are __ letters in the modern alphabet. XXX 26 XXX 70	low
+4	12	1	no	hair	think	inf	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair ___ times last monthXXX 21 XXX 27	high
+4	13	1	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	low
+4	14	1	no	calls	think	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made __ phone calls last weekXXX 22 XXX 32"	high
+4	15	1	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	low
+4	16	1	no	restaurants	announce	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric announced to me that Sarah went to __ restaurants last yearXXX 46 XXX 78"	high
+4	17	1	no	tshirts	announce	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has __ T-shirtsXXX 21 XXX 29	high
+4	18	1	no	cook	think	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked ___ meals at home last monthXXX 12 XXX 17"	low
+4	19	1	no	speculation4	FILLER	FILLER	"Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 XXX 37"	high
+4	20	1	no	burger	think	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue thinks that Joseph ate ___ burgers last monthXXX 8 XXX 11	high
+5	1	0	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own ___ feet. XXX 6 XXX 2	high
+5	2	0	no	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie.  Stephanie thinks that Nick saw __ movies last yearXXX 22 XXX 36	low
+5	3	0	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy ___ more of their albums. XXX 3 XXX 4	low
+5	4	0	no	coffee	think	inf	"Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank __ cups of coffee last weekXXX 14 XXX 20"	low
+5	5	0	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	low
+5	6	0	no	calls	announce	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made ___ phone calls last weekXXX 22 XXX 32"	high
+5	7	0	no	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has __ T-shirtsXXX 21 XXX 29	high
+5	8	0	no	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has ___ friendsXXX 10 XXX 14	high
+5	9	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+5	10	0	no	class	think	inf	"Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are ___ children in Erin's classXXX 24 XXX 27"	high
+5	11	0	no	correct3	FILLER	FILLER	"My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 XXX 8"	low
+5	12	0	no	shoes	announce	inf	"Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns ___ pairs of shoesXXX 73 XXX 152"	low
+5	13	0	no	speculation4	FILLER	FILLER	"Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 XXX 37"	high
+5	14	0	no	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate ___ burgers last monthXXX 8 XXX 11	low
+5	15	0	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are __ letters in the modern alphabet. XXX 26 XXX 70	low
+5	16	0	no	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair ___ times last monthXXX 21 XXX 27	high
+5	17	0	no	cook	announce	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked __ meals at home last monthXXX 12 XXX 17"	high
+5	18	0	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	low
+5	19	0	no	restaurants	think	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to ___ restaurants last yearXXX 46 XXX 78"	low
+5	20	0	no	facebook	announce	inf	"Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has ___ Facebook friendsXXX 207 XXX 268"	high
+6	1	1	no	cook	think	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked ___ meals at home last monthXXX 12 XXX 17"	low
+6	2	1	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy ___ more of their albums. XXX 3 XXX 4	high
+6	3	1	no	coffee	announce	inf	"Andy is a man from the US. Andy has an aunt, Katherine. Katherine announced to me that Andy drank __ cups of coffee last weekXXX 14 XXX 20"	low
+6	4	1	no	correct3	FILLER	FILLER	"My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 XXX 8"	low
+6	5	1	no	shoes	think	inf	"Melanie is a woman from the US. Melanie has a colleague, Bob.  Bob thinks that Melanie owns ___ pairs of shoesXXX 73 XXX  152"	high
+6	6	1	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	high
+6	7	1	no	restaurants	announce	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric announced to me that Sarah went to __ restaurants last yearXXX 46 XXX 78"	high
+6	8	1	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own ___ feet. XXX 6 XXX 2	high
+6	9	1	no	movie	announce	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw ___ movies last yearXXX 33 XXX 36	high
+6	10	1	no	facebook	think	inf	"Judith is a woman from the US. Judith has a brother, Bill. Bill thinks that Judith has ___ Facebook friendsXXX 207 XXX 268"	low
+6	11	1	no	tshirts	announce	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has __ T-shirtsXXX 21 XXX 29	high
+6	12	1	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	high
+6	13	1	no	calls	think	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made __ phone calls last weekXXX 22 XXX 32"	high
+6	14	1	no	speculation4	FILLER	FILLER	"Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 XXX 37"	low
+6	15	1	no	burger	think	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue thinks that Joseph ate ___ burgers last monthXXX 8 XXX 11	low
+6	16	1	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+6	17	1	no	class	announce	inf	"Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are ___ children in Erin's class.XXX 24  XXX 27"	high
+6	18	1	no	friends	announce	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has ___ friendsXXX 10 XXX 14	high
+6	19	1	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are __ letters in the modern alphabet. XXX 26 XXX 70	low
+6	20	1	no	hair	think	inf	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair ___ times last monthXXX 21 XXX 27	low
+7	1	0	no	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has ___ friendsXXX 10 XXX 14	high
+7	2	0	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	high
+7	3	0	no	restaurants	think	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to ___ restaurants last yearXXX 46 XXX 78"	low
+7	4	0	no	speculation4	FILLER	FILLER	"Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 XXX 37"	low
+7	5	0	no	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate ___ burgers last monthXXX 8 XXX 11	low
+7	6	0	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	high
+7	7	0	no	calls	announce	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made ___ phone calls last weekXXX 22 XXX 32"	low
+7	8	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+7	9	0	no	class	think	inf	"Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are ___ children in Erin's classXXX 24 XXX 27"	high
+7	10	0	no	correct3	FILLER	FILLER	"My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 XXX 8"	low
+7	11	0	no	shoes	announce	inf	"Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns ___ pairs of shoesXXX 73 XXX 152"	low
+7	12	0	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy ___ more of their albums. XXX 3 XXX 4	low
+7	13	0	no	coffee	think	inf	"Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank __ cups of coffee last weekXXX 14 XXX 20"	low
+7	14	0	no	cook	announce	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked __ meals at home last monthXXX 12 XXX 17"	high
+7	15	0	no	facebook	announce	inf	"Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has ___ Facebook friendsXXX 207 XXX 268"	high
+7	16	0	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own ___ feet. XXX 6 XXX 2	high
+7	17	0	no	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie.  Stephanie thinks that Nick saw __ movies last yearXXX 22 XXX 36	high
+7	18	0	no	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has __ T-shirtsXXX 21 XXX 29	high
+7	19	0	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are __ letters in the modern alphabet. XXX 26 XXX 70	low
+7	20	0	no	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair ___ times last monthXXX 21 XXX 27	high
+8	1	1	no	friends	announce	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has ___ friendsXXX 10 XXX 14	low
+8	2	1	no	facebook	think	inf	"Judith is a woman from the US. Judith has a brother, Bill. Bill thinks that Judith has ___ Facebook friendsXXX 207 XXX 268"	high
+8	3	1	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	low
+8	4	1	no	calls	think	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made __ phone calls last weekXXX 22 XXX 32"	low
+8	5	1	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	low
+8	6	1	no	restaurants	announce	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric announced to me that Sarah went to __ restaurants last yearXXX 46 XXX 78"	low
+8	7	1	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+8	8	1	no	class	announce	inf	"Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are ___ children in Erin's class.XXX 24  XXX 27"	low
+8	9	1	no	speculation4	FILLER	FILLER	"Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 XXX 37"	low
+8	10	1	no	burger	think	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue thinks that Joseph ate ___ burgers last monthXXX 8 XXX 11	high
+8	11	1	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own ___ feet. XXX 6 XXX 2	high
+8	12	1	no	movie	announce	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw ___ movies last yearXXX 33 XXX 36	high
+8	13	1	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are __ letters in the modern alphabet. XXX 26 XXX 70	low
+8	14	1	no	hair	think	inf	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair ___ times last monthXXX 21 XXX 27	low
+8	15	1	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy ___ more of their albums. XXX 3 XXX 4	low
+8	16	1	no	coffee	announce	inf	"Andy is a man from the US. Andy has an aunt, Katherine. Katherine announced to me that Andy drank __ cups of coffee last weekXXX 14 XXX 20"	low
+8	17	1	no	correct3	FILLER	FILLER	"My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 XXX 8"	low
+8	18	1	no	shoes	think	inf	"Melanie is a woman from the US. Melanie has a colleague, Bob.  Bob thinks that Melanie owns ___ pairs of shoesXXX 73 XXX  152"	low
+8	19	1	no	cook	think	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked ___ meals at home last monthXXX 12 XXX 17"	low
+8	20	1	no	tshirts	announce	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has __ T-shirtsXXX 21 XXX 29	low
+9	1	0	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own ___ feet. XXX 6 XXX 2	high
+9	2	0	no	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie.  Stephanie thinks that Nick saw __ movies last yearXXX 22 XXX 36	low
+9	3	0	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	high
+9	4	0	no	restaurants	think	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to ___ restaurants last yearXXX 46 XXX 78"	low
+9	5	0	no	cook	announce	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked __ meals at home last monthXXX 12 XXX 17"	high
+9	6	0	no	speculation4	FILLER	FILLER	"Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 XXX 37"	low
+9	7	0	no	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate ___ burgers last monthXXX 8 XXX 11	high
+9	8	0	no	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has ___ friendsXXX 10 XXX 14	high
+9	9	0	no	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has __ T-shirtsXXX 21 XXX 29	low
+9	10	0	no	facebook	announce	inf	"Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has ___ Facebook friendsXXX 207 XXX 268"	high
+9	11	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+9	12	0	no	class	think	inf	"Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are ___ children in Erin's classXXX 24 XXX 27"	low
+9	13	0	no	correct3	FILLER	FILLER	"My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 XXX 8"	low
+9	14	0	no	shoes	announce	inf	"Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns ___ pairs of shoesXXX 73 XXX 152"	high
+9	15	0	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are __ letters in the modern alphabet. XXX 26 XXX 70	low
+9	16	0	no	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair ___ times last monthXXX 21 XXX 27	low
+9	17	0	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy ___ more of their albums. XXX 3 XXX 4	low
+9	18	0	no	coffee	think	inf	"Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank __ cups of coffee last weekXXX 14 XXX 20"	high
+9	19	0	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	low
+9	20	0	no	calls	announce	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made ___ phone calls last weekXXX 22 XXX 32"	high
+10	1	1	no	speculation4	FILLER	FILLER	"Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 XXX 37"	low
+10	2	1	no	burger	think	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue thinks that Joseph ate ___ burgers last monthXXX 8 XXX 11	high
+10	3	1	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	high
+10	4	1	no	restaurants	announce	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric announced to me that Sarah went to __ restaurants last yearXXX 46 XXX 78"	high
+10	5	1	no	facebook	think	inf	"Judith is a woman from the US. Judith has a brother, Bill. Bill thinks that Judith has ___ Facebook friendsXXX 207 XXX 268"	high
+10	6	1	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are __ letters in the modern alphabet. XXX 26 XXX 70	low
+10	7	1	no	hair	think	inf	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair ___ times last monthXXX 21 XXX 27	high
+10	8	1	no	tshirts	announce	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has __ T-shirtsXXX 21 XXX 29	high
+10	9	1	no	correct3	FILLER	FILLER	"My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 XXX 8"	low
+10	10	1	no	shoes	think	inf	"Melanie is a woman from the US. Melanie has a colleague, Bob.  Bob thinks that Melanie owns ___ pairs of shoesXXX 73 XXX  152"	low
+10	11	1	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+10	12	1	no	class	announce	inf	"Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are ___ children in Erin's class.XXX 24  XXX 27"	high
+10	13	1	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own ___ feet. XXX 6 XXX 2	high
+10	14	1	no	movie	announce	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw ___ movies last yearXXX 33 XXX 36	high
+10	15	1	no	cook	think	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked ___ meals at home last monthXXX 12 XXX 17"	high
+10	16	1	no	friends	announce	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has ___ friendsXXX 10 XXX 14	high
+10	17	1	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	high
+10	18	1	no	calls	think	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made __ phone calls last weekXXX 22 XXX 32"	high
+10	19	1	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy ___ more of their albums. XXX 3 XXX 4	high
+10	20	1	no	coffee	announce	inf	"Andy is a man from the US. Andy has an aunt, Katherine. Katherine announced to me that Andy drank __ cups of coffee last weekXXX 14 XXX 20"	high
+11	1	0	no	speculation4	FILLER	FILLER	"Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 XXX 37"	low
+11	2	0	no	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate ___ burgers last monthXXX 8 XXX 11	low
+11	3	0	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	low
+11	4	0	no	calls	announce	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made ___ phone calls last weekXXX 22 XXX 32"	high
+11	5	0	no	cook	announce	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked __ meals at home last monthXXX 12 XXX 17"	low
+11	6	0	no	facebook	announce	inf	"Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has ___ Facebook friendsXXX 207 XXX 268"	high
+11	7	0	no	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has __ T-shirtsXXX 21 XXX 29	low
+11	8	0	no	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has ___ friendsXXX 10 XXX 14	low
+11	9	0	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own ___ feet. XXX 6 XXX 2	high
+11	10	0	no	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie.  Stephanie thinks that Nick saw __ movies last yearXXX 22 XXX 36	low
+11	11	0	no	correct3	FILLER	FILLER	"My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 XXX 8"	low
+11	12	0	no	shoes	announce	inf	"Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns ___ pairs of shoesXXX 73 XXX 152"	high
+11	13	0	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are __ letters in the modern alphabet. XXX 26 XXX 70	low
+11	14	0	no	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair ___ times last monthXXX 21 XXX 27	high
+11	15	0	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	low
+11	16	0	no	restaurants	think	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to ___ restaurants last yearXXX 46 XXX 78"	high
+11	17	0	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy ___ more of their albums. XXX 3 XXX 4	low
+11	18	0	no	coffee	think	inf	"Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank __ cups of coffee last weekXXX 14 XXX 20"	high
+11	19	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+11	20	0	no	class	think	inf	"Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are ___ children in Erin's classXXX 24 XXX 27"	high
+12	1	1	yes	cook	think	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked ___ meals at home last monthXXX 12 XXX 17"	low
+12	2	1	yes	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	low
+12	3	1	yes	calls	think	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made __ phone calls last weekXXX 22 XXX 32"	high
+12	4	1	yes	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	high
+12	5	1	yes	restaurants	announce	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric announced to me that Sarah went to __ restaurants last yearXXX 46 XXX 78"	low
+12	6	1	yes	speculation4	FILLER	FILLER	"Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 XXX 37"	low
+12	7	1	yes	burger	think	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue thinks that Joseph ate ___ burgers last monthXXX 8 XXX 11	low
+12	8	1	yes	correct3	FILLER	FILLER	"My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 XXX 8"	low
+12	9	1	yes	shoes	think	inf	"Melanie is a woman from the US. Melanie has a colleague, Bob.  Bob thinks that Melanie owns ___ pairs of shoesXXX 73 XXX  152"	low
+12	10	1	yes	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy ___ more of their albums. XXX 3 XXX 4	low
+12	11	1	yes	coffee	announce	inf	"Andy is a man from the US. Andy has an aunt, Katherine. Katherine announced to me that Andy drank __ cups of coffee last weekXXX 14 XXX 20"	high
+12	12	1	yes	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+12	13	1	yes	class	announce	inf	"Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are ___ children in Erin's class.XXX 24  XXX 27"	low
+12	14	1	yes	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own ___ feet. XXX 6 XXX 2	high
+12	15	1	yes	movie	announce	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw ___ movies last yearXXX 33 XXX 36	high
+12	16	1	yes	facebook	think	inf	"Judith is a woman from the US. Judith has a brother, Bill. Bill thinks that Judith has ___ Facebook friendsXXX 207 XXX 268"	high
+12	17	1	yes	friends	announce	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has ___ friendsXXX 10 XXX 14	low
+12	18	1	yes	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are __ letters in the modern alphabet. XXX 26 XXX 70	low
+12	19	1	yes	hair	think	inf	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair ___ times last monthXXX 21 XXX 27	high
+12	20	1	yes	tshirts	announce	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has __ T-shirtsXXX 21 XXX 29	low
+13	1	0	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy ___ more of their albums. XXX 3 XXX 4	low
+13	2	0	no	coffee	think	inf	"Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank __ cups of coffee last weekXXX 14 XXX 20"	low
+13	3	0	no	facebook	announce	inf	"Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has ___ Facebook friendsXXX 207 XXX 268"	high
+13	4	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+13	5	0	no	class	think	inf	"Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are ___ children in Erin's classXXX 24 XXX 27"	low
+13	6	0	no	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has __ T-shirtsXXX 21 XXX 29	low
+13	7	0	no	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has ___ friendsXXX 10 XXX 14	low
+13	8	0	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	high
+13	9	0	no	calls	announce	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made ___ phone calls last weekXXX 22 XXX 32"	high
+13	10	0	no	speculation4	FILLER	FILLER	"Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 XXX 37"	low
+13	11	0	no	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate ___ burgers last monthXXX 8 XXX 11	high
+13	12	0	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	high
+13	13	0	no	restaurants	think	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to ___ restaurants last yearXXX 46 XXX 78"	low
+13	14	0	no	correct3	FILLER	FILLER	"My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 XXX 8"	low
+13	15	0	no	shoes	announce	inf	"Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns ___ pairs of shoesXXX 73 XXX 152"	low
+13	16	0	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own ___ feet. XXX 6 XXX 2	high
+13	17	0	no	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie.  Stephanie thinks that Nick saw __ movies last yearXXX 22 XXX 36	low
+13	18	0	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are __ letters in the modern alphabet. XXX 26 XXX 70	low
+13	19	0	no	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair ___ times last monthXXX 21 XXX 27	low
+13	20	0	no	cook	announce	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked __ meals at home last monthXXX 12 XXX 17"	high
+14	1	1	no	tshirts	announce	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has __ T-shirtsXXX 21 XXX 29	low
+14	2	1	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy ___ more of their albums. XXX 3 XXX 4	low
+14	3	1	no	coffee	announce	inf	"Andy is a man from the US. Andy has an aunt, Katherine. Katherine announced to me that Andy drank __ cups of coffee last weekXXX 14 XXX 20"	high
+14	4	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+14	5	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+14	6	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+14	7	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+14	8	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+14	9	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+14	10	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+14	11	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+14	12	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+14	13	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+14	14	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+14	15	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+14	16	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+14	17	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+14	18	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+14	19	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+14	20	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+15	1	0	no	facebook	announce	inf	"Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has ___ Facebook friendsXXX 207 XXX 268"	low
+15	2	0	no	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has ___ friendsXXX 10 XXX 14	high
+15	3	0	no	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has __ T-shirtsXXX 21 XXX 29	low
+15	4	0	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy ___ more of their albums. XXX 3 XXX 4	low
+15	5	0	no	coffee	think	inf	"Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank __ cups of coffee last weekXXX 14 XXX 20"	low
+15	6	0	no	correct3	FILLER	FILLER	"My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 XXX 8"	low
+15	7	0	no	shoes	announce	inf	"Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns ___ pairs of shoesXXX 73 XXX 152"	low
+15	8	0	no	speculation4	FILLER	FILLER	"Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 XXX 37"	low
+15	9	0	no	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate ___ burgers last monthXXX 8 XXX 11	low
+15	10	0	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are __ letters in the modern alphabet. XXX 26 XXX 70	low
+15	11	0	no	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair ___ times last monthXXX 21 XXX 27	high
+15	12	0	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	high
+15	13	0	no	restaurants	think	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to ___ restaurants last yearXXX 46 XXX 78"	high
+15	14	0	no	cook	announce	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked __ meals at home last monthXXX 12 XXX 17"	high
+15	15	0	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	low
+15	16	0	no	calls	announce	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made ___ phone calls last weekXXX 22 XXX 32"	low
+15	17	0	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own ___ feet. XXX 6 XXX 2	high
+15	18	0	no	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie.  Stephanie thinks that Nick saw __ movies last yearXXX 22 XXX 36	high
+15	19	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+15	20	0	no	class	think	inf	"Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are ___ children in Erin's classXXX 24 XXX 27"	low
+16	1	1	no	correct3	FILLER	FILLER	"My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 XXX 8"	low
+16	2	1	no	shoes	think	inf	"Melanie is a woman from the US. Melanie has a colleague, Bob.  Bob thinks that Melanie owns ___ pairs of shoesXXX 73 XXX  152"	high
+16	3	1	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	low
+16	4	1	no	restaurants	announce	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric announced to me that Sarah went to __ restaurants last yearXXX 46 XXX 78"	low
+16	5	1	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy ___ more of their albums. XXX 3 XXX 4	high
+16	6	1	no	coffee	announce	inf	"Andy is a man from the US. Andy has an aunt, Katherine. Katherine announced to me that Andy drank __ cups of coffee last weekXXX 14 XXX 20"	high
+16	7	1	no	facebook	think	inf	"Judith is a woman from the US. Judith has a brother, Bill. Bill thinks that Judith has ___ Facebook friendsXXX 207 XXX 268"	low
+16	8	1	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+16	9	1	no	class	announce	inf	"Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are ___ children in Erin's class.XXX 24  XXX 27"	low
+16	10	1	no	cook	think	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked ___ meals at home last monthXXX 12 XXX 17"	low
+16	11	1	no	friends	announce	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has ___ friendsXXX 10 XXX 14	low
+16	12	1	no	tshirts	announce	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has __ T-shirtsXXX 21 XXX 29	low
+16	13	1	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are __ letters in the modern alphabet. XXX 26 XXX 70	high
+16	14	1	no	hair	think	inf	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair ___ times last monthXXX 21 XXX 27	high
+16	15	1	no	speculation4	FILLER	FILLER	"Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 XXX 37"	low
+16	16	1	no	burger	think	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue thinks that Joseph ate ___ burgers last monthXXX 8 XXX 11	low
+16	17	1	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	high
+16	18	1	no	calls	think	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made __ phone calls last weekXXX 22 XXX 32"	high
+16	19	1	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own ___ feet. XXX 6 XXX 2	high
+16	20	1	no	movie	announce	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw ___ movies last yearXXX 33 XXX 36	low
+17	1	0	no	facebook	announce	inf	"Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has ___ Facebook friendsXXX 207 XXX 268"	low
+17	2	0	no	correct3	FILLER	FILLER	"My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 XXX 8"	low
+17	3	0	no	shoes	announce	inf	"Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns ___ pairs of shoesXXX 73 XXX 152"	low
+17	4	0	no	cook	announce	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked __ meals at home last monthXXX 12 XXX 17"	low
+17	5	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+17	6	0	no	class	think	inf	"Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are ___ children in Erin's classXXX 24 XXX 27"	low
+17	7	0	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy ___ more of their albums. XXX 3 XXX 4	low
+17	8	0	no	coffee	think	inf	"Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank __ cups of coffee last weekXXX 14 XXX 20"	high
+17	9	0	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are __ letters in the modern alphabet. XXX 26 XXX 70	low
+17	10	0	no	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair ___ times last monthXXX 21 XXX 27	high
+17	11	0	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	high
+17	12	0	no	calls	announce	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made ___ phone calls last weekXXX 22 XXX 32"	low
+17	13	0	no	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has ___ friendsXXX 10 XXX 14	high
+17	14	0	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own ___ feet. XXX 6 XXX 2	high
+17	15	0	no	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie.  Stephanie thinks that Nick saw __ movies last yearXXX 22 XXX 36	low
+17	16	0	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	low
+17	17	0	no	restaurants	think	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to ___ restaurants last yearXXX 46 XXX 78"	low
+17	18	0	no	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has __ T-shirtsXXX 21 XXX 29	high
+17	19	0	no	speculation4	FILLER	FILLER	"Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 XXX 37"	low
+17	20	0	no	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate ___ burgers last monthXXX 8 XXX 11	high
+18	1	1	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own ___ feet. XXX 6 XXX 2	high
+18	2	1	no	movie	announce	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw ___ movies last yearXXX 33 XXX 36	low
+18	3	1	no	friends	announce	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has ___ friendsXXX 10 XXX 14	high
+18	4	1	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	high
+18	5	1	no	restaurants	announce	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric announced to me that Sarah went to __ restaurants last yearXXX 46 XXX 78"	low
+18	6	1	no	facebook	think	inf	"Judith is a woman from the US. Judith has a brother, Bill. Bill thinks that Judith has ___ Facebook friendsXXX 207 XXX 268"	low
+18	7	1	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+18	8	1	no	class	announce	inf	"Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are ___ children in Erin's class.XXX 24  XXX 27"	high
+18	9	1	no	tshirts	announce	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has __ T-shirtsXXX 21 XXX 29	low
+18	10	1	no	cook	think	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked ___ meals at home last monthXXX 12 XXX 17"	low
+18	11	1	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	high
+18	12	1	no	calls	think	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made __ phone calls last weekXXX 22 XXX 32"	low
+18	13	1	no	correct3	FILLER	FILLER	"My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 XXX 8"	low
+18	14	1	no	shoes	think	inf	"Melanie is a woman from the US. Melanie has a colleague, Bob.  Bob thinks that Melanie owns ___ pairs of shoesXXX 73 XXX  152"	low
+18	15	1	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are __ letters in the modern alphabet. XXX 26 XXX 70	high
+18	16	1	no	hair	think	inf	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair ___ times last monthXXX 21 XXX 27	low
+18	17	1	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy ___ more of their albums. XXX 3 XXX 4	low
+18	18	1	no	coffee	announce	inf	"Andy is a man from the US. Andy has an aunt, Katherine. Katherine announced to me that Andy drank __ cups of coffee last weekXXX 14 XXX 20"	low
+18	19	1	no	speculation4	FILLER	FILLER	"Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 XXX 37"	low
+18	20	1	no	burger	think	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue thinks that Joseph ate ___ burgers last monthXXX 8 XXX 11	low
+19	1	0	no	facebook	announce	inf	"Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has ___ Facebook friendsXXX 207 XXX 268"	high
+19	2	0	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are __ letters in the modern alphabet. XXX 26 XXX 70	low
+19	3	0	no	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair ___ times last monthXXX 21 XXX 27	high
+19	4	0	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy ___ more of their albums. XXX 3 XXX 4	low
+19	5	0	no	coffee	think	inf	"Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank __ cups of coffee last weekXXX 14 XXX 20"	high
+19	6	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+19	7	0	no	class	think	inf	"Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are ___ children in Erin's classXXX 24 XXX 27"	high
+19	8	0	no	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has ___ friendsXXX 10 XXX 14	low
+19	9	0	no	correct3	FILLER	FILLER	"My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 XXX 8"	low
+19	10	0	no	shoes	announce	inf	"Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns ___ pairs of shoesXXX 73 XXX 152"	high
+19	11	0	no	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has __ T-shirtsXXX 21 XXX 29	low
+19	12	0	no	speculation4	FILLER	FILLER	"Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 XXX 37"	low
+19	13	0	no	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate ___ burgers last monthXXX 8 XXX 11	low
+19	14	0	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	high
+19	15	0	no	calls	announce	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made ___ phone calls last weekXXX 22 XXX 32"	low
+19	16	0	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own ___ feet. XXX 6 XXX 2	high
+19	17	0	no	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie.  Stephanie thinks that Nick saw __ movies last yearXXX 22 XXX 36	high
+19	18	0	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	high
+19	19	0	no	restaurants	think	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to ___ restaurants last yearXXX 46 XXX 78"	low
+19	20	0	no	cook	announce	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked __ meals at home last monthXXX 12 XXX 17"	low
+20	1	1	no	facebook	think	inf	"Judith is a woman from the US. Judith has a brother, Bill. Bill thinks that Judith has ___ Facebook friendsXXX 207 XXX 268"	high
+20	2	1	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own ___ feet. XXX 6 XXX 2	high
+20	3	1	no	movie	announce	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw ___ movies last yearXXX 33 XXX 36	low
+20	4	1	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+20	5	1	no	class	announce	inf	"Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are ___ children in Erin's class.XXX 24  XXX 27"	high
+20	6	1	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy ___ more of their albums. XXX 3 XXX 4	low
+20	7	1	no	coffee	announce	inf	"Andy is a man from the US. Andy has an aunt, Katherine. Katherine announced to me that Andy drank __ cups of coffee last weekXXX 14 XXX 20"	high
+20	8	1	no	correct3	FILLER	FILLER	"My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 XXX 8"	low
+20	9	1	no	shoes	think	inf	"Melanie is a woman from the US. Melanie has a colleague, Bob.  Bob thinks that Melanie owns ___ pairs of shoesXXX 73 XXX  152"	low
+20	10	1	no	friends	announce	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has ___ friendsXXX 10 XXX 14	high
+20	11	1	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are __ letters in the modern alphabet. XXX 26 XXX 70	low
+20	12	1	no	hair	think	inf	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair ___ times last monthXXX 21 XXX 27	high
+20	13	1	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	low
+20	14	1	no	calls	think	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made __ phone calls last weekXXX 22 XXX 32"	low
+20	15	1	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	high
+20	16	1	no	restaurants	announce	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric announced to me that Sarah went to __ restaurants last yearXXX 46 XXX 78"	low
+20	17	1	no	tshirts	announce	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has __ T-shirtsXXX 21 XXX 29	high
+20	18	1	no	cook	think	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked ___ meals at home last monthXXX 12 XXX 17"	high
+20	19	1	no	speculation4	FILLER	FILLER	"Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 XXX 37"	high
+20	20	1	no	burger	think	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue thinks that Joseph ate ___ burgers last monthXXX 8 XXX 11	low
+21	1	0	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own ___ feet. XXX 6 XXX 2	high
+21	2	0	no	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie.  Stephanie thinks that Nick saw __ movies last yearXXX 22 XXX 36	high
+21	3	0	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy ___ more of their albums. XXX 3 XXX 4	low
+21	4	0	no	coffee	think	inf	"Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank __ cups of coffee last weekXXX 14 XXX 20"	low
+21	5	0	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	high
+21	6	0	no	calls	announce	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made ___ phone calls last weekXXX 22 XXX 32"	high
+21	7	0	no	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has __ T-shirtsXXX 21 XXX 29	high
+21	8	0	no	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has ___ friendsXXX 10 XXX 14	low
+21	9	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+21	10	0	no	class	think	inf	"Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are ___ children in Erin's classXXX 24 XXX 27"	low
+21	11	0	no	correct3	FILLER	FILLER	"My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 XXX 8"	low
+21	12	0	no	shoes	announce	inf	"Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns ___ pairs of shoesXXX 73 XXX 152"	low
+21	13	0	no	speculation4	FILLER	FILLER	"Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 XXX 37"	low
+21	14	0	no	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate ___ burgers last monthXXX 8 XXX 11	low
+21	15	0	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are __ letters in the modern alphabet. XXX 26 XXX 70	low
+21	16	0	no	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair ___ times last monthXXX 21 XXX 27	low
+21	17	0	no	cook	announce	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked __ meals at home last monthXXX 12 XXX 17"	high
+21	18	0	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	high
+21	19	0	no	restaurants	think	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to ___ restaurants last yearXXX 46 XXX 78"	low
+21	20	0	no	facebook	announce	inf	"Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has ___ Facebook friendsXXX 207 XXX 268"	low
+22	1	1	no	cook	think	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked ___ meals at home last monthXXX 12 XXX 17"	high
+22	2	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+22	3	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+22	4	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+22	5	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+22	6	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+22	7	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+22	8	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+22	9	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+22	10	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+22	11	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+22	12	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+22	13	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+22	14	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+22	15	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+22	16	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+22	17	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+22	18	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+22	19	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+22	20	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+23	1	0	no	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has ___ friendsXXX 10 XXX 14	high
+23	2	0	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	low
+23	3	0	no	restaurants	think	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to ___ restaurants last yearXXX 46 XXX 78"	low
+23	4	0	no	speculation4	FILLER	FILLER	"Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 XXX 37"	high
+23	5	0	no	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate ___ burgers last monthXXX 8 XXX 11	low
+23	6	0	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	high
+23	7	0	no	calls	announce	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made ___ phone calls last weekXXX 22 XXX 32"	high
+23	8	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+23	9	0	no	class	think	inf	"Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are ___ children in Erin's classXXX 24 XXX 27"	high
+23	10	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+23	11	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+23	12	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+23	13	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+23	14	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+23	15	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+23	16	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+23	17	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+23	18	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+23	19	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+23	20	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+24	1	1	no	friends	announce	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has ___ friendsXXX 10 XXX 14	high
+24	2	1	no	facebook	think	inf	"Judith is a woman from the US. Judith has a brother, Bill. Bill thinks that Judith has ___ Facebook friendsXXX 207 XXX 268"	high
+24	3	1	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	low
+24	4	1	no	calls	think	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made __ phone calls last weekXXX 22 XXX 32"	low
+24	5	1	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	high
+24	6	1	no	restaurants	announce	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric announced to me that Sarah went to __ restaurants last yearXXX 46 XXX 78"	low
+24	7	1	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+24	8	1	no	class	announce	inf	"Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are ___ children in Erin's class.XXX 24  XXX 27"	high
+24	9	1	no	speculation4	FILLER	FILLER	"Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 XXX 37"	low
+24	10	1	no	burger	think	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue thinks that Joseph ate ___ burgers last monthXXX 8 XXX 11	low
+24	11	1	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own ___ feet. XXX 6 XXX 2	high
+24	12	1	no	movie	announce	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw ___ movies last yearXXX 33 XXX 36	low
+24	13	1	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are __ letters in the modern alphabet. XXX 26 XXX 70	low
+24	14	1	no	hair	think	inf	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair ___ times last monthXXX 21 XXX 27	high
+24	15	1	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy ___ more of their albums. XXX 3 XXX 4	low
+24	16	1	no	coffee	announce	inf	"Andy is a man from the US. Andy has an aunt, Katherine. Katherine announced to me that Andy drank __ cups of coffee last weekXXX 14 XXX 20"	low
+24	17	1	no	correct3	FILLER	FILLER	"My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 XXX 8"	low
+24	18	1	no	shoes	think	inf	"Melanie is a woman from the US. Melanie has a colleague, Bob.  Bob thinks that Melanie owns ___ pairs of shoesXXX 73 XXX  152"	low
+24	19	1	no	cook	think	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked ___ meals at home last monthXXX 12 XXX 17"	low
+24	20	1	no	tshirts	announce	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has __ T-shirtsXXX 21 XXX 29	high
+25	1	0	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own ___ feet. XXX 6 XXX 2	high
+25	2	0	no	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie.  Stephanie thinks that Nick saw __ movies last yearXXX 22 XXX 36	low
+25	3	0	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	high
+25	4	0	no	restaurants	think	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to ___ restaurants last yearXXX 46 XXX 78"	low
+25	5	0	no	cook	announce	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked __ meals at home last monthXXX 12 XXX 17"	high
+25	6	0	no	speculation4	FILLER	FILLER	"Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 XXX 37"	low
+25	7	0	no	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate ___ burgers last monthXXX 8 XXX 11	high
+25	8	0	no	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has ___ friendsXXX 10 XXX 14	high
+25	9	0	no	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has __ T-shirtsXXX 21 XXX 29	low
+25	10	0	no	facebook	announce	inf	"Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has ___ Facebook friendsXXX 207 XXX 268"	high
+25	11	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+25	12	0	no	class	think	inf	"Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are ___ children in Erin's classXXX 24 XXX 27"	high
+25	13	0	no	correct3	FILLER	FILLER	"My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 XXX 8"	low
+25	14	0	no	shoes	announce	inf	"Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns ___ pairs of shoesXXX 73 XXX 152"	low
+25	15	0	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are __ letters in the modern alphabet. XXX 26 XXX 70	low
+25	16	0	no	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair ___ times last monthXXX 21 XXX 27	high
+25	17	0	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy ___ more of their albums. XXX 3 XXX 4	low
+25	18	0	no	coffee	think	inf	"Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank __ cups of coffee last weekXXX 14 XXX 20"	high
+25	19	0	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	high
+25	20	0	no	calls	announce	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made ___ phone calls last weekXXX 22 XXX 32"	high
+26	1	1	no	speculation4	FILLER	FILLER	"Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 XXX 37"	low
+26	2	1	no	burger	think	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue thinks that Joseph ate ___ burgers last monthXXX 8 XXX 11	low
+26	3	1	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	high
+26	4	1	no	restaurants	announce	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric announced to me that Sarah went to __ restaurants last yearXXX 46 XXX 78"	high
+26	5	1	no	facebook	think	inf	"Judith is a woman from the US. Judith has a brother, Bill. Bill thinks that Judith has ___ Facebook friendsXXX 207 XXX 268"	high
+26	6	1	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are __ letters in the modern alphabet. XXX 26 XXX 70	low
+26	7	1	no	hair	think	inf	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair ___ times last monthXXX 21 XXX 27	high
+26	8	1	no	tshirts	announce	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has __ T-shirtsXXX 21 XXX 29	high
+26	9	1	no	correct3	FILLER	FILLER	"My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 XXX 8"	low
+26	10	1	no	shoes	think	inf	"Melanie is a woman from the US. Melanie has a colleague, Bob.  Bob thinks that Melanie owns ___ pairs of shoesXXX 73 XXX  152"	low
+26	11	1	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+26	12	1	no	class	announce	inf	"Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are ___ children in Erin's class.XXX 24  XXX 27"	high
+26	13	1	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own ___ feet. XXX 6 XXX 2	high
+26	14	1	no	movie	announce	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw ___ movies last yearXXX 33 XXX 36	high
+26	15	1	no	cook	think	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked ___ meals at home last monthXXX 12 XXX 17"	low
+26	16	1	no	friends	announce	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has ___ friendsXXX 10 XXX 14	low
+26	17	1	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	low
+26	18	1	no	calls	think	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made __ phone calls last weekXXX 22 XXX 32"	low
+26	19	1	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy ___ more of their albums. XXX 3 XXX 4	low
+26	20	1	no	coffee	announce	inf	"Andy is a man from the US. Andy has an aunt, Katherine. Katherine announced to me that Andy drank __ cups of coffee last weekXXX 14 XXX 20"	high
+27	1	0	no	speculation4	FILLER	FILLER	"Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 XXX 37"	low
+27	2	0	no	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate ___ burgers last monthXXX 8 XXX 11	low
+27	3	0	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	high
+27	4	0	no	calls	announce	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made ___ phone calls last weekXXX 22 XXX 32"	high
+27	5	0	no	cook	announce	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked __ meals at home last monthXXX 12 XXX 17"	low
+27	6	0	no	facebook	announce	inf	"Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has ___ Facebook friendsXXX 207 XXX 268"	high
+27	7	0	no	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has __ T-shirtsXXX 21 XXX 29	high
+27	8	0	no	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has ___ friendsXXX 10 XXX 14	high
+27	9	0	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own ___ feet. XXX 6 XXX 2	high
+27	10	0	no	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie.  Stephanie thinks that Nick saw __ movies last yearXXX 22 XXX 36	high
+27	11	0	no	correct3	FILLER	FILLER	"My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 XXX 8"	low
+27	12	0	no	shoes	announce	inf	"Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns ___ pairs of shoesXXX 73 XXX 152"	low
+27	13	0	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are __ letters in the modern alphabet. XXX 26 XXX 70	low
+27	14	0	no	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair ___ times last monthXXX 21 XXX 27	low
+27	15	0	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	low
+27	16	0	no	restaurants	think	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to ___ restaurants last yearXXX 46 XXX 78"	low
+27	17	0	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy ___ more of their albums. XXX 3 XXX 4	high
+27	18	0	no	coffee	think	inf	"Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank __ cups of coffee last weekXXX 14 XXX 20"	low
+27	19	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+27	20	0	no	class	think	inf	"Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are ___ children in Erin's classXXX 24 XXX 27"	high
+28	1	1	no	cook	think	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked ___ meals at home last monthXXX 12 XXX 17"	low
+28	2	1	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	low
+28	3	1	no	calls	think	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made __ phone calls last weekXXX 22 XXX 32"	high
+28	4	1	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	high
+28	5	1	no	restaurants	announce	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric announced to me that Sarah went to __ restaurants last yearXXX 46 XXX 78"	low
+28	6	1	no	speculation4	FILLER	FILLER	"Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 XXX 37"	low
+28	7	1	no	burger	think	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue thinks that Joseph ate ___ burgers last monthXXX 8 XXX 11	high
+28	8	1	no	correct3	FILLER	FILLER	"My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 XXX 8"	low
+28	9	1	no	shoes	think	inf	"Melanie is a woman from the US. Melanie has a colleague, Bob.  Bob thinks that Melanie owns ___ pairs of shoesXXX 73 XXX  152"	low
+28	10	1	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy ___ more of their albums. XXX 3 XXX 4	low
+28	11	1	no	coffee	announce	inf	"Andy is a man from the US. Andy has an aunt, Katherine. Katherine announced to me that Andy drank __ cups of coffee last weekXXX 14 XXX 20"	low
+28	12	1	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+28	13	1	no	class	announce	inf	"Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are ___ children in Erin's class.XXX 24  XXX 27"	high
+28	14	1	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own ___ feet. XXX 6 XXX 2	high
+28	15	1	no	movie	announce	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw ___ movies last yearXXX 33 XXX 36	low
+28	16	1	no	facebook	think	inf	"Judith is a woman from the US. Judith has a brother, Bill. Bill thinks that Judith has ___ Facebook friendsXXX 207 XXX 268"	high
+28	17	1	no	friends	announce	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has ___ friendsXXX 10 XXX 14	high
+28	18	1	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are __ letters in the modern alphabet. XXX 26 XXX 70	low
+28	19	1	no	hair	think	inf	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair ___ times last monthXXX 21 XXX 27	high
+28	20	1	no	tshirts	announce	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has __ T-shirtsXXX 21 XXX 29	low
+29	1	0	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy ___ more of their albums. XXX 3 XXX 4	low
+29	2	0	no	coffee	think	inf	"Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank __ cups of coffee last weekXXX 14 XXX 20"	low
+29	3	0	no	facebook	announce	inf	"Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has ___ Facebook friendsXXX 207 XXX 268"	high
+29	4	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+29	5	0	no	class	think	inf	"Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are ___ children in Erin's classXXX 24 XXX 27"	high
+29	6	0	no	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has __ T-shirtsXXX 21 XXX 29	low
+29	7	0	no	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has ___ friendsXXX 10 XXX 14	high
+29	8	0	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	high
+29	9	0	no	calls	announce	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made ___ phone calls last weekXXX 22 XXX 32"	low
+29	10	0	no	speculation4	FILLER	FILLER	"Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 XXX 37"	high
+29	11	0	no	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate ___ burgers last monthXXX 8 XXX 11	high
+29	12	0	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	high
+29	13	0	no	restaurants	think	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to ___ restaurants last yearXXX 46 XXX 78"	low
+29	14	0	no	correct3	FILLER	FILLER	"My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 XXX 8"	low
+29	15	0	no	shoes	announce	inf	"Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns ___ pairs of shoesXXX 73 XXX 152"	low
+29	16	0	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own ___ feet. XXX 6 XXX 2	high
+29	17	0	no	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie.  Stephanie thinks that Nick saw __ movies last yearXXX 22 XXX 36	low
+29	18	0	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are __ letters in the modern alphabet. XXX 26 XXX 70	low
+29	19	0	no	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair ___ times last monthXXX 21 XXX 27	low
+29	20	0	no	cook	announce	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked __ meals at home last monthXXX 12 XXX 17"	high
+30	1	1	no	tshirts	announce	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has __ T-shirtsXXX 21 XXX 29	high
+30	2	1	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy ___ more of their albums. XXX 3 XXX 4	low
+30	3	1	no	coffee	announce	inf	"Andy is a man from the US. Andy has an aunt, Katherine. Katherine announced to me that Andy drank __ cups of coffee last weekXXX 14 XXX 20"	low
+30	4	1	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are __ letters in the modern alphabet. XXX 26 XXX 70	high
+30	5	1	no	hair	think	inf	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair ___ times last monthXXX 21 XXX 27	low
+30	6	1	no	friends	announce	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has ___ friendsXXX 10 XXX 14	low
+30	7	1	no	correct3	FILLER	FILLER	"My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 XXX 8"	high
+30	8	1	no	shoes	think	inf	"Melanie is a woman from the US. Melanie has a colleague, Bob.  Bob thinks that Melanie owns ___ pairs of shoesXXX 73 XXX  152"	low
+30	9	1	no	cook	think	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked ___ meals at home last monthXXX 12 XXX 17"	high
+30	10	1	no	speculation4	FILLER	FILLER	"Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 XXX 37"	low
+30	11	1	no	burger	think	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue thinks that Joseph ate ___ burgers last monthXXX 8 XXX 11	low
+30	12	1	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	high
+30	13	1	no	restaurants	announce	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric announced to me that Sarah went to __ restaurants last yearXXX 46 XXX 78"	low
+30	14	1	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	low
+30	15	1	no	calls	think	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made __ phone calls last weekXXX 22 XXX 32"	high
+30	16	1	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own ___ feet. XXX 6 XXX 2	high
+30	17	1	no	movie	announce	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw ___ movies last yearXXX 33 XXX 36	high
+30	18	1	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+30	19	1	no	class	announce	inf	"Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are ___ children in Erin's class.XXX 24  XXX 27"	high
+30	20	1	no	facebook	think	inf	"Judith is a woman from the US. Judith has a brother, Bill. Bill thinks that Judith has ___ Facebook friendsXXX 207 XXX 268"	low
+31	1	0	no	facebook	announce	inf	"Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has ___ Facebook friendsXXX 207 XXX 268"	low
+31	2	0	no	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has ___ friendsXXX 10 XXX 14	high
+31	3	0	no	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has __ T-shirtsXXX 21 XXX 29	low
+31	4	0	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy ___ more of their albums. XXX 3 XXX 4	low
+31	5	0	no	coffee	think	inf	"Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank __ cups of coffee last weekXXX 14 XXX 20"	low
+31	6	0	no	correct3	FILLER	FILLER	"My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 XXX 8"	low
+31	7	0	no	shoes	announce	inf	"Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns ___ pairs of shoesXXX 73 XXX 152"	low
+31	8	0	no	speculation4	FILLER	FILLER	"Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 XXX 37"	low
+31	9	0	no	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate ___ burgers last monthXXX 8 XXX 11	high
+31	10	0	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are __ letters in the modern alphabet. XXX 26 XXX 70	low
+31	11	0	no	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair ___ times last monthXXX 21 XXX 27	high
+31	12	0	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	high
+31	13	0	no	restaurants	think	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to ___ restaurants last yearXXX 46 XXX 78"	high
+31	14	0	no	cook	announce	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked __ meals at home last monthXXX 12 XXX 17"	low
+31	15	0	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	low
+31	16	0	no	calls	announce	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made ___ phone calls last weekXXX 22 XXX 32"	high
+31	17	0	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own ___ feet. XXX 6 XXX 2	high
+31	18	0	no	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie.  Stephanie thinks that Nick saw __ movies last yearXXX 22 XXX 36	high
+31	19	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+31	20	0	no	class	think	inf	"Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are ___ children in Erin's classXXX 24 XXX 27"	low
+32	1	1	no	correct3	FILLER	FILLER	"My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 XXX 8"	low
+32	2	1	no	shoes	think	inf	"Melanie is a woman from the US. Melanie has a colleague, Bob.  Bob thinks that Melanie owns ___ pairs of shoesXXX 73 XXX  152"	low
+32	3	1	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	high
+32	4	1	no	restaurants	announce	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric announced to me that Sarah went to __ restaurants last yearXXX 46 XXX 78"	low
+32	5	1	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy ___ more of their albums. XXX 3 XXX 4	low
+32	6	1	no	coffee	announce	inf	"Andy is a man from the US. Andy has an aunt, Katherine. Katherine announced to me that Andy drank __ cups of coffee last weekXXX 14 XXX 20"	low
+32	7	1	no	facebook	think	inf	"Judith is a woman from the US. Judith has a brother, Bill. Bill thinks that Judith has ___ Facebook friendsXXX 207 XXX 268"	low
+32	8	1	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+32	9	1	no	class	announce	inf	"Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are ___ children in Erin's class.XXX 24  XXX 27"	high
+32	10	1	no	cook	think	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked ___ meals at home last monthXXX 12 XXX 17"	low
+32	11	1	no	friends	announce	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has ___ friendsXXX 10 XXX 14	high
+32	12	1	no	tshirts	announce	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has __ T-shirtsXXX 21 XXX 29	low
+32	13	1	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are __ letters in the modern alphabet. XXX 26 XXX 70	low
+32	14	1	no	hair	think	inf	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair ___ times last monthXXX 21 XXX 27	low
+32	15	1	no	speculation4	FILLER	FILLER	"Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 XXX 37"	low
+32	16	1	no	burger	think	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue thinks that Joseph ate ___ burgers last monthXXX 8 XXX 11	high
+32	17	1	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	high
+32	18	1	no	calls	think	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made __ phone calls last weekXXX 22 XXX 32"	low
+32	19	1	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own ___ feet. XXX 6 XXX 2	high
+32	20	1	no	movie	announce	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw ___ movies last yearXXX 33 XXX 36	low
+33	1	0	no	facebook	announce	inf	"Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has ___ Facebook friendsXXX 207 XXX 268"	high
+33	2	0	no	correct3	FILLER	FILLER	"My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 XXX 8"	low
+33	3	0	no	shoes	announce	inf	"Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns ___ pairs of shoesXXX 73 XXX 152"	low
+33	4	0	no	cook	announce	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked __ meals at home last monthXXX 12 XXX 17"	low
+33	5	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+33	6	0	no	class	think	inf	"Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are ___ children in Erin's classXXX 24 XXX 27"	low
+33	7	0	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy ___ more of their albums. XXX 3 XXX 4	low
+33	8	0	no	coffee	think	inf	"Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank __ cups of coffee last weekXXX 14 XXX 20"	low
+33	9	0	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are __ letters in the modern alphabet. XXX 26 XXX 70	low
+33	10	0	no	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair ___ times last monthXXX 21 XXX 27	low
+33	11	0	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	low
+33	12	0	no	calls	announce	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made ___ phone calls last weekXXX 22 XXX 32"	low
+33	13	0	no	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has ___ friendsXXX 10 XXX 14	high
+33	14	0	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own ___ feet. XXX 6 XXX 2	high
+33	15	0	no	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie.  Stephanie thinks that Nick saw __ movies last yearXXX 22 XXX 36	high
+33	16	0	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	low
+33	17	0	no	restaurants	think	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to ___ restaurants last yearXXX 46 XXX 78"	low
+33	18	0	no	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has __ T-shirtsXXX 21 XXX 29	low
+33	19	0	no	speculation4	FILLER	FILLER	"Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 XXX 37"	low
+33	20	0	no	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate ___ burgers last monthXXX 8 XXX 11	low
+34	1	1	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own ___ feet. XXX 6 XXX 2	high
+34	2	1	no	movie	announce	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw ___ movies last yearXXX 33 XXX 36	low
+34	3	1	no	friends	announce	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has ___ friendsXXX 10 XXX 14	high
+34	4	1	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	high
+34	5	1	no	restaurants	announce	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric announced to me that Sarah went to __ restaurants last yearXXX 46 XXX 78"	low
+34	6	1	no	facebook	think	inf	"Judith is a woman from the US. Judith has a brother, Bill. Bill thinks that Judith has ___ Facebook friendsXXX 207 XXX 268"	high
+34	7	1	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+34	8	1	no	class	announce	inf	"Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are ___ children in Erin's class.XXX 24  XXX 27"	low
+34	9	1	no	tshirts	announce	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has __ T-shirtsXXX 21 XXX 29	high
+34	10	1	no	cook	think	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked ___ meals at home last monthXXX 12 XXX 17"	low
+34	11	1	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	high
+34	12	1	no	calls	think	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made __ phone calls last weekXXX 22 XXX 32"	low
+34	13	1	no	correct3	FILLER	FILLER	"My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 XXX 8"	low
+34	14	1	no	shoes	think	inf	"Melanie is a woman from the US. Melanie has a colleague, Bob.  Bob thinks that Melanie owns ___ pairs of shoesXXX 73 XXX  152"	low
+34	15	1	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are __ letters in the modern alphabet. XXX 26 XXX 70	low
+34	16	1	no	hair	think	inf	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair ___ times last monthXXX 21 XXX 27	low
+34	17	1	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy ___ more of their albums. XXX 3 XXX 4	high
+34	18	1	no	coffee	announce	inf	"Andy is a man from the US. Andy has an aunt, Katherine. Katherine announced to me that Andy drank __ cups of coffee last weekXXX 14 XXX 20"	low
+34	19	1	no	speculation4	FILLER	FILLER	"Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 XXX 37"	high
+34	20	1	no	burger	think	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue thinks that Joseph ate ___ burgers last monthXXX 8 XXX 11	low
+35	1	0	no	facebook	announce	inf	"Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has ___ Facebook friendsXXX 207 XXX 268"	high
+35	2	0	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are __ letters in the modern alphabet. XXX 26 XXX 70	low
+35	3	0	no	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair ___ times last monthXXX 21 XXX 27	low
+35	4	0	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy ___ more of their albums. XXX 3 XXX 4	high
+35	5	0	no	coffee	think	inf	"Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank __ cups of coffee last weekXXX 14 XXX 20"	low
+35	6	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+35	7	0	no	class	think	inf	"Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are ___ children in Erin's classXXX 24 XXX 27"	high
+35	8	0	no	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has ___ friendsXXX 10 XXX 14	low
+35	9	0	no	correct3	FILLER	FILLER	"My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 XXX 8"	low
+35	10	0	no	shoes	announce	inf	"Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns ___ pairs of shoesXXX 73 XXX 152"	low
+35	11	0	no	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has __ T-shirtsXXX 21 XXX 29	high
+35	12	0	no	speculation4	FILLER	FILLER	"Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 XXX 37"	low
+35	13	0	no	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate ___ burgers last monthXXX 8 XXX 11	high
+35	14	0	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	high
+35	15	0	no	calls	announce	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made ___ phone calls last weekXXX 22 XXX 32"	low
+35	16	0	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own ___ feet. XXX 6 XXX 2	high
+35	17	0	no	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie.  Stephanie thinks that Nick saw __ movies last yearXXX 22 XXX 36	low
+35	18	0	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	low
+35	19	0	no	restaurants	think	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to ___ restaurants last yearXXX 46 XXX 78"	high
+35	20	0	no	cook	announce	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked __ meals at home last monthXXX 12 XXX 17"	low
+36	1	1	no	facebook	think	inf	"Judith is a woman from the US. Judith has a brother, Bill. Bill thinks that Judith has ___ Facebook friendsXXX 207 XXX 268"	high
+36	2	1	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own ___ feet. XXX 6 XXX 2	high
+36	3	1	no	movie	announce	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw ___ movies last yearXXX 33 XXX 36	low
+36	4	1	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+36	5	1	no	class	announce	inf	"Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are ___ children in Erin's class.XXX 24  XXX 27"	low
+36	6	1	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy ___ more of their albums. XXX 3 XXX 4	low
+36	7	1	no	coffee	announce	inf	"Andy is a man from the US. Andy has an aunt, Katherine. Katherine announced to me that Andy drank __ cups of coffee last weekXXX 14 XXX 20"	high
+36	8	1	no	correct3	FILLER	FILLER	"My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 XXX 8"	low
+36	9	1	no	shoes	think	inf	"Melanie is a woman from the US. Melanie has a colleague, Bob.  Bob thinks that Melanie owns ___ pairs of shoesXXX 73 XXX  152"	low
+36	10	1	no	friends	announce	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has ___ friendsXXX 10 XXX 14	low
+36	11	1	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are __ letters in the modern alphabet. XXX 26 XXX 70	low
+36	12	1	no	hair	think	inf	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair ___ times last monthXXX 21 XXX 27	high
+36	13	1	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	high
+36	14	1	no	calls	think	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made __ phone calls last weekXXX 22 XXX 32"	low
+36	15	1	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	low
+36	16	1	no	restaurants	announce	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric announced to me that Sarah went to __ restaurants last yearXXX 46 XXX 78"	low
+36	17	1	no	tshirts	announce	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has __ T-shirtsXXX 21 XXX 29	low
+36	18	1	no	cook	think	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked ___ meals at home last monthXXX 12 XXX 17"	high
+36	19	1	no	speculation4	FILLER	FILLER	"Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 XXX 37"	low
+36	20	1	no	burger	think	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue thinks that Joseph ate ___ burgers last monthXXX 8 XXX 11	low
+37	1	0	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own ___ feet. XXX 6 XXX 2	high
+37	2	0	no	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie.  Stephanie thinks that Nick saw __ movies last yearXXX 22 XXX 36	low
+37	3	0	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy ___ more of their albums. XXX 3 XXX 4	low
+37	4	0	no	coffee	think	inf	"Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank __ cups of coffee last weekXXX 14 XXX 20"	low
+37	5	0	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	high
+37	6	0	no	calls	announce	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made ___ phone calls last weekXXX 22 XXX 32"	high
+37	7	0	no	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has __ T-shirtsXXX 21 XXX 29	low
+37	8	0	no	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has ___ friendsXXX 10 XXX 14	low
+37	9	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+37	10	0	no	class	think	inf	"Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are ___ children in Erin's classXXX 24 XXX 27"	high
+37	11	0	no	correct3	FILLER	FILLER	"My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 XXX 8"	low
+37	12	0	no	shoes	announce	inf	"Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns ___ pairs of shoesXXX 73 XXX 152"	low
+37	13	0	no	speculation4	FILLER	FILLER	"Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 XXX 37"	low
+37	14	0	no	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate ___ burgers last monthXXX 8 XXX 11	high
+37	15	0	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are __ letters in the modern alphabet. XXX 26 XXX 70	low
+37	16	0	no	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair ___ times last monthXXX 21 XXX 27	low
+37	17	0	no	cook	announce	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked __ meals at home last monthXXX 12 XXX 17"	high
+37	18	0	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	low
+37	19	0	no	restaurants	think	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to ___ restaurants last yearXXX 46 XXX 78"	low
+37	20	0	no	facebook	announce	inf	"Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has ___ Facebook friendsXXX 207 XXX 268"	high
+38	1	1	no	cook	think	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked ___ meals at home last monthXXX 12 XXX 17"	low
+38	2	1	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy ___ more of their albums. XXX 3 XXX 4	low
+38	3	1	no	coffee	announce	inf	"Andy is a man from the US. Andy has an aunt, Katherine. Katherine announced to me that Andy drank __ cups of coffee last weekXXX 14 XXX 20"	low
+38	4	1	no	correct3	FILLER	FILLER	"My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 XXX 8"	low
+38	5	1	no	shoes	think	inf	"Melanie is a woman from the US. Melanie has a colleague, Bob.  Bob thinks that Melanie owns ___ pairs of shoesXXX 73 XXX  152"	high
+38	6	1	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	low
+38	7	1	no	restaurants	announce	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric announced to me that Sarah went to __ restaurants last yearXXX 46 XXX 78"	high
+38	8	1	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own ___ feet. XXX 6 XXX 2	high
+38	9	1	no	movie	announce	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw ___ movies last yearXXX 33 XXX 36	low
+38	10	1	no	facebook	think	inf	"Judith is a woman from the US. Judith has a brother, Bill. Bill thinks that Judith has ___ Facebook friendsXXX 207 XXX 268"	high
+38	11	1	no	tshirts	announce	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has __ T-shirtsXXX 21 XXX 29	high
+38	12	1	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	low
+38	13	1	no	calls	think	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made __ phone calls last weekXXX 22 XXX 32"	low
+38	14	1	no	speculation4	FILLER	FILLER	"Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 XXX 37"	low
+38	15	1	no	burger	think	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue thinks that Joseph ate ___ burgers last monthXXX 8 XXX 11	low
+38	16	1	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+38	17	1	no	class	announce	inf	"Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are ___ children in Erin's class.XXX 24  XXX 27"	low
+38	18	1	no	friends	announce	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has ___ friendsXXX 10 XXX 14	high
+38	19	1	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are __ letters in the modern alphabet. XXX 26 XXX 70	low
+38	20	1	no	hair	think	inf	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair ___ times last monthXXX 21 XXX 27	high
+39	1	0	no	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has ___ friendsXXX 10 XXX 14	high
+39	2	0	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	low
+39	3	0	no	restaurants	think	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to ___ restaurants last yearXXX 46 XXX 78"	low
+39	4	0	no	speculation4	FILLER	FILLER	"Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 XXX 37"	high
+39	5	0	no	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate ___ burgers last monthXXX 8 XXX 11	high
+39	6	0	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	high
+39	7	0	no	calls	announce	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made ___ phone calls last weekXXX 22 XXX 32"	high
+39	8	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	low
+39	9	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+39	10	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+39	11	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+39	12	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+39	13	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+39	14	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+39	15	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+39	16	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+39	17	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+39	18	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+39	19	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+39	20	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+40	1	1	no	friends	announce	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has ___ friendsXXX 10 XXX 14	low
+40	2	1	no	facebook	think	inf	"Judith is a woman from the US. Judith has a brother, Bill. Bill thinks that Judith has ___ Facebook friendsXXX 207 XXX 268"	low
+40	3	1	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	high
+40	4	1	no	calls	think	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made __ phone calls last weekXXX 22 XXX 32"	high
+40	5	1	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	high
+40	6	1	no	restaurants	announce	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric announced to me that Sarah went to __ restaurants last yearXXX 46 XXX 78"	low
+40	7	1	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+40	8	1	no	class	announce	inf	"Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are ___ children in Erin's class.XXX 24  XXX 27"	high
+40	9	1	no	speculation4	FILLER	FILLER	"Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 XXX 37"	low
+40	10	1	no	burger	think	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue thinks that Joseph ate ___ burgers last monthXXX 8 XXX 11	high
+40	11	1	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own ___ feet. XXX 6 XXX 2	high
+40	12	1	no	movie	announce	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw ___ movies last yearXXX 33 XXX 36	high
+40	13	1	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are __ letters in the modern alphabet. XXX 26 XXX 70	low
+40	14	1	no	hair	think	inf	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair ___ times last monthXXX 21 XXX 27	high
+40	15	1	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy ___ more of their albums. XXX 3 XXX 4	low
+40	16	1	no	coffee	announce	inf	"Andy is a man from the US. Andy has an aunt, Katherine. Katherine announced to me that Andy drank __ cups of coffee last weekXXX 14 XXX 20"	low
+40	17	1	no	correct3	FILLER	FILLER	"My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 XXX 8"	low
+40	18	1	no	shoes	think	inf	"Melanie is a woman from the US. Melanie has a colleague, Bob.  Bob thinks that Melanie owns ___ pairs of shoesXXX 73 XXX  152"	low
+40	19	1	no	cook	think	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked ___ meals at home last monthXXX 12 XXX 17"	high
+40	20	1	no	tshirts	announce	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has __ T-shirtsXXX 21 XXX 29	low
+41	1	0	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own ___ feet. XXX 6 XXX 2	high
+41	2	0	no	movie	think	inf	Nick is a man from the US. Nick went to school with Stephanie.  Stephanie thinks that Nick saw __ movies last yearXXX 22 XXX 36	low
+41	3	0	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	low
+41	4	0	no	restaurants	think	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric thinks that Sarah went to ___ restaurants last yearXXX 46 XXX 78"	low
+41	5	0	no	cook	announce	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily announced to me that Tony cooked __ meals at home last monthXXX 12 XXX 17"	low
+41	6	0	no	speculation4	FILLER	FILLER	"Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 XXX 37"	low
+41	7	0	no	burger	announce	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue announced to me that Joseph ate ___ burgers last monthXXX 8 XXX 11	low
+41	8	0	no	friends	think	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon thinks that Lelia has ___ friendsXXX 10 XXX 14	low
+41	9	0	no	tshirts	think	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca thinks that Liam has __ T-shirtsXXX 21 XXX 29	low
+41	10	0	no	facebook	announce	inf	"Judith is a woman from the US. Judith has a brother, Bill. Bill announced to me that Judith has ___ Facebook friendsXXX 207 XXX 268"	high
+41	11	0	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+41	12	0	no	class	think	inf	"Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh thinks that there are ___ children in Erin's classXXX 24 XXX 27"	high
+41	13	0	no	correct3	FILLER	FILLER	"My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 XXX 8"	low
+41	14	0	no	shoes	announce	inf	"Melanie is a woman from the US. Melanie has a colleague, Bob. Bob announced to me that Melanie owns ___ pairs of shoesXXX 73 XXX 152"	low
+41	15	0	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are __ letters in the modern alphabet. XXX 26 XXX 70	low
+41	16	0	no	hair	announce	inf	Betty is a woman from the US. Betty works at an office with David. David announced to me that Betty washed her hair ___ times last monthXXX 21 XXX 27	low
+41	17	0	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy ___ more of their albums. XXX 3 XXX 4	low
+41	18	0	no	coffee	think	inf	"Andy is a man from the US. Andy has an aunt, Katherine. Katherine thinks that Andy drank __ cups of coffee last weekXXX 14 XXX 20"	low
+41	19	0	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	high
+41	20	0	no	calls	announce	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin announced to me that Lisa made ___ phone calls last weekXXX 22 XXX 32"	low
+42	1	1	no	speculation4	FILLER	FILLER	"Amtrak operates trains in the US. The passengers know that delays are common.   Indeed, yesterday's 8:30 Amtrak train from NYC to Boston was __ minutes late. XXX 27 XXX 37"	high
+42	2	1	no	burger	think	inf	Joseph is a man from the US. Joseph lives next door to Sue. Sue thinks that Joseph ate ___ burgers last monthXXX 8 XXX 11	high
+42	3	1	no	speculation1	FILLER	FILLER	Corey and Charlotte are professional tuba players. They recently had a conversation about how old the tuba actually is. They concluded that the tuba is at most ___ years old. XXX 151 XXX 217	low
+42	4	1	no	restaurants	announce	inf	"Sarah is a woman from the US. Sarah has an acquaintance, Eric. Eric announced to me that Sarah went to __ restaurants last yearXXX 46 XXX 78"	low
+42	5	1	no	facebook	think	inf	"Judith is a woman from the US. Judith has a brother, Bill. Bill thinks that Judith has ___ Facebook friendsXXX 207 XXX 268"	high
+42	6	1	no	correct1	FILLER	FILLER	No one knows exactly when the Roman alphabet was first invented. The letters correspond roughly to spoken sounds but not exactly. There are __ letters in the modern alphabet. XXX 26 XXX 70	low
+42	7	1	no	hair	think	inf	Betty is a woman from the US. Betty works at an office with David. David thinks that Betty washed her hair ___ times last monthXXX 21 XXX 27	high
+42	8	1	no	tshirts	announce	inf	Liam is a man from the US. Liam lives down the street from Rebecca. Rebecca announced to me that Liam has __ T-shirtsXXX 21 XXX 29	high
+42	9	1	no	correct3	FILLER	FILLER	"My best friend always reminds me to take a break. She quotes Roald Dahl that 'a little nonsense now and then, is cherished by the wisest men.' It's true that there are only ___ hours in a day.  XXX 24 XXX 8"	low
+42	10	1	no	shoes	think	inf	"Melanie is a woman from the US. Melanie has a colleague, Bob.  Bob thinks that Melanie owns ___ pairs of shoesXXX 73 XXX  152"	low
+42	11	1	no	correct2	FILLER	FILLER	Johnny and his brother are looking forward to the holidays. They've made a gingerbread house and decorated the tree. Johnny's favorite Christmas carol is 'The ___ days of Christmas' XXX 14 XXX 12	high
+42	12	1	no	class	announce	inf	"Erin is a first grade student in primary school. Erin has an uncle, Josh. Josh announced to me that there are ___ children in Erin's class.XXX 24  XXX 27"	high
+42	13	1	no	correct4	FILLER	FILLER	Everyone eventually has to leave home and make their way in the world. You have to face earning a living and doing your own laundry. You have to stand on your own ___ feet. XXX 6 XXX 2	high
+42	14	1	no	movie	announce	inf	Nick is a man from the US. Nick went to school with Stephanie. Stephanie announced to me that Nick saw ___ movies last yearXXX 33 XXX 36	low
+42	15	1	no	cook	think	inf	"Tony is a man from the US. Nick has a sister, Emily. Emily thinks that Tony cooked ___ meals at home last monthXXX 12 XXX 17"	high
+42	16	1	no	friends	announce	inf	Lelia is a woman from the US. Lelia lives around the corner from Brandon. Brandon announced to me that Lelia has ___ friendsXXX 10 XXX 14	low
+42	17	1	no	speculation2	FILLER	FILLER	The Grongitts went to a barbecue party again last weekend. Mr Grongitts was very bored. He decided he would not visit another barbecue party for at least ___ weeks. XXX 4 XXX 6	high
+42	18	1	no	calls	think	inf	"Lisa is a woman from the US. Lisa has a friend, Kevin. Kevin thinks that Lisa made __ phone calls last weekXXX 22 XXX 32"	high
+42	19	1	no	speculation3	FILLER	FILLER	Gina discovered a new band on the internet. It's called 'This will destroy you' and she immediately purchased their debut album. As soon as she can afford it she intends to buy ___ more of their albums. XXX 3 XXX 4	low
+42	20	1	no	coffee	announce	inf	"Andy is a man from the US. Andy has an aunt, Katherine. Katherine announced to me that Andy drank __ cups of coffee last weekXXX 14 XXX 20"	low
