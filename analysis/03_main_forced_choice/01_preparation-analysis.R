@@ -1,7 +1,7 @@
 library(lme4)
 library(Hmisc)
 
-dat <- data.frame(read.delim("~/acad/informativity/expt_say_think/results-forced-choice/data.txt"))
+dat <- data.frame(read.delim("data/03_main_forced_choice/data_raw.txt"))
 dat <- subset(dat, answer!="NULL")
 dat <- subset(dat, otherLang=="no")
 
