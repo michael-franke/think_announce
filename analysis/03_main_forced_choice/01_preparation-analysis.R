@@ -47,8 +47,35 @@ tapply(dat$isHigh, list(dat$itemName, dat$cond), mean)
 length(levels(factor(dat$output_id)))
 
 # LMER
-m <- glmer(isHigh~ cond + (1 + cond | output_id) + (1+cond| itemName), family="binomial", data=dat, control = glmerControl(optimizer="bobyqa", optCtrl = list(maxfun = 1e6)))
+m <- glmer(isHigh  ~ cond + (1 + cond | output_id) + (1+cond| itemName), 
+           family="binomial", 
+           data=dat, 
+           control = glmerControl(optimizer="bobyqa", 
+                                  optCtrl = list(maxfun = 1e6)))
+m2 <- glmer(isHigh  ~ cond + (1 | output_id) + (1+cond| itemName), 
+           family="binomial", 
+           data=dat, 
+           control = glmerControl(optimizer="bobyqa", 
+                                  optCtrl = list(maxfun = 1e6)))
+m3 <- glmer(isHigh  ~ cond + (1 + cond | output_id) + (1 | itemName), 
+           family="binomial", 
+           data=dat, 
+           control = glmerControl(optimizer="bobyqa", 
+                                  optCtrl = list(maxfun = 1e6)))
+m4 <- glmer(isHigh  ~ cond + (1 | output_id) + (1 | itemName), 
+            family="binomial", 
+            data=dat, 
+            control = glmerControl(optimizer="bobyqa", 
+                                   optCtrl = list(maxfun = 1e6)))
+m5 <- glmer(isHigh  ~ cond + (1 + cond || output_id) + (1+cond || itemName), 
+           family="binomial", 
+           data=dat, 
+           control = glmerControl(optimizer="bobyqa", 
+                                  optCtrl = list(maxfun = 1e6)))
+
 summary(m)
+summary(m2)
+anova(m4, m2, m3, m, m5)
 tapply(dat$isHigh, list(dat$cond), mean)
 
 # overall graph
