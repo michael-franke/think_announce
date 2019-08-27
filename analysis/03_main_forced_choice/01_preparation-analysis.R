@@ -47,35 +47,55 @@ tapply(dat$isHigh, list(dat$itemName, dat$cond), mean)
 length(levels(factor(dat$output_id)))
 
 # LMER
-m <- glmer(isHigh  ~ cond + (1 + cond | output_id) + (1+cond| itemName), 
+m_saturated <- glmer(isHigh  ~ cond + (1 + cond | output_id) + (1+cond| itemName), 
+                     family="binomial", 
+                     data=dat, 
+                     control = glmerControl(optimizer="bobyqa", 
+                                            optCtrl = list(maxfun = 1e6)))
+# m1 drops by-subject slope
+m1 <- glmer(isHigh  ~ cond + (1 | output_id) + (1 + cond| itemName), 
            family="binomial", 
            data=dat, 
            control = glmerControl(optimizer="bobyqa", 
                                   optCtrl = list(maxfun = 1e6)))
-m2 <- glmer(isHigh  ~ cond + (1 | output_id) + (1+cond| itemName), 
+# m2 drops by-item slope
+m2 <- glmer(isHigh  ~ cond + (1 + cond | output_id) + (1 | itemName), 
            family="binomial", 
            data=dat, 
            control = glmerControl(optimizer="bobyqa", 
                                   optCtrl = list(maxfun = 1e6)))
-m3 <- glmer(isHigh  ~ cond + (1 + cond | output_id) + (1 | itemName), 
-           family="binomial", 
-           data=dat, 
-           control = glmerControl(optimizer="bobyqa", 
-                                  optCtrl = list(maxfun = 1e6)))
-m4 <- glmer(isHigh  ~ cond + (1 | output_id) + (1 | itemName), 
+# m3 drops random slopes altogether (intercept-only model)
+m3 <- glmer(isHigh  ~ cond + (1 | output_id) + (1 | itemName), 
             family="binomial", 
             data=dat, 
             control = glmerControl(optimizer="bobyqa", 
                                    optCtrl = list(maxfun = 1e6)))
-m5 <- glmer(isHigh  ~ cond + (1 + cond || output_id) + (1+cond || itemName), 
-           family="binomial", 
-           data=dat, 
-           control = glmerControl(optimizer="bobyqa", 
-                                  optCtrl = list(maxfun = 1e6)))
+# m4 drops by-item intercept
+m4 <- glmer(isHigh  ~ cond + (1 | output_id) , 
+            family="binomial", 
+            data=dat, 
+            control = glmerControl(optimizer="bobyqa", 
+                                   optCtrl = list(maxfun = 1e6)))
+# m5 drops by-subject intercept
+m5 <- glmer(isHigh  ~ cond + (1 | itemName) , 
+            family="binomial", 
+            data=dat, 
+            control = glmerControl(optimizer="bobyqa", 
+                                   optCtrl = list(maxfun = 1e6)))
 
-summary(m)
-summary(m2)
-anova(m4, m2, m3, m, m5)
+# comparing nested models that remove random slopes
+anova(m_saturated, m1, m3)
+anova(m_saturated, m2, m3)
+# so far, the best model is the intercept-only model
+
+# comparing nested models that remove random slopes
+anova(m3, m4)
+anova(m3, m5)
+# it seems the random intercepts are both necessary
+# ==> 'best' model seems to be m3
+
+summary(m3)
+
 tapply(dat$isHigh, list(dat$cond), mean)
 
 # overall graph
@@ -95,5 +115,4 @@ xs <- barplot(mean.subj, beside=T,  ylab=c("% higher value selected"),ylim=c(0,1
 par(xpd = TRUE)
 # plot the error bars
 errbar(xs, mean.subj, mean.subj+ses, mean.subj-ses, add=T, lwd=1.5, pch=26, cap=.05)
-
 
