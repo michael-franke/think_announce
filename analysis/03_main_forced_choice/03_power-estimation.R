@@ -9,13 +9,13 @@ library(simr) # for simulating power
 # every participant saw all 12 items, so gave 6 observations per cell
 # => we had a total of 90 * 6 = 540 observation per design cell (maybe expected value, if randomized?)
 
-# hypothetical difference between conditions (think: effect size 0.4)
-fixef(m3)["condthink"] <- -0.5
+# hypothetical difference between conditions (think: previously observed effect size 0.4)
+fixef(m3)["condthink"] <- -0.25 # putative effect size 
 
 # extending to 120 participants & 20 items 
-m_power_sim = extend(m3, along = "output_id", n = 220) 
-m_power_sim = extend(m_power_sim, along = "itemName", n = 20)
+m_power_sim = extend(m3, along = "output_id", n = 120) 
+m_power_sim = extend(m_power_sim, along = "itemName", n = 34)
 
-powerSim(m_power_sim, nsim = 2)
-pc = powerCurve(m_power_sim, nsim = 20, along = "output_id")
+# powerSim(m_power_sim, nsim = 20)
+pc = powerCurve(m_power_sim, nsim = 40, along = "output_id")
 plot(pc)
